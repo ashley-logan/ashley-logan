@@ -5,7 +5,7 @@
 - Hi! My name's Ashley Logan; she/her
 - I'm currently a sophomore at University of Illinois Chicago
 - I'm getting my bachelor's degree in Data Science
-- 
+  
 #### What is my current programming skill set? (updated 8/31/25)
 - Proficient in Python, especially working with Pandas, Polars, Async libraries
 - Proficient in C++ and C; strong grasp on memory management and safety
